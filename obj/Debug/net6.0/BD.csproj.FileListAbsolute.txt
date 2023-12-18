@@ -1,0 +1,15 @@
+D:\Working\geekbrains\BD\bin\Debug\net6.0\BD.exe
+D:\Working\geekbrains\BD\bin\Debug\net6.0\BD.deps.json
+D:\Working\geekbrains\BD\bin\Debug\net6.0\BD.runtimeconfig.json
+D:\Working\geekbrains\BD\bin\Debug\net6.0\BD.dll
+D:\Working\geekbrains\BD\bin\Debug\net6.0\BD.pdb
+D:\Working\geekbrains\BD\obj\Debug\net6.0\BD.csproj.AssemblyReference.cache
+D:\Working\geekbrains\BD\obj\Debug\net6.0\BD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working\geekbrains\BD\obj\Debug\net6.0\BD.AssemblyInfoInputs.cache
+D:\Working\geekbrains\BD\obj\Debug\net6.0\BD.AssemblyInfo.cs
+D:\Working\geekbrains\BD\obj\Debug\net6.0\BD.csproj.CoreCompileInputs.cache
+D:\Working\geekbrains\BD\obj\Debug\net6.0\BD.dll
+D:\Working\geekbrains\BD\obj\Debug\net6.0\refint\BD.dll
+D:\Working\geekbrains\BD\obj\Debug\net6.0\BD.pdb
+D:\Working\geekbrains\BD\obj\Debug\net6.0\BD.genruntimeconfig.cache
+D:\Working\geekbrains\BD\obj\Debug\net6.0\ref\BD.dll
