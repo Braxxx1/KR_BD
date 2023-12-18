@@ -8,7 +8,7 @@ foreach (var item in wordSpis)
     }    
 }
 
-string[] newWordSpis = new string[wordSpis.Length];
+string[] newWordSpis = new string[size];
 int index = 0;
 foreach (var item in wordSpis)
 {
